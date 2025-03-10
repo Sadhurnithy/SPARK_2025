@@ -42,7 +42,7 @@ a:visited {
 }
 
 .header {
-  background: url(./images/header_bg_1.png);
+  background: url(../IMAGES/header_bg_1.png);
   color: var(--primary-bg-blue);
   display: flex;
   flex-direction: column;
